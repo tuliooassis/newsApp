@@ -1,10 +1,10 @@
 import React from 'react';
-import { Text } from 'react-native';
+import NewsItem from '../components/NewsItem';
 
 const News = ({ route }) => {
   console.log(route.name);
   return (
-    <Text>navigation</Text>
+    <NewsItem />
   )
 }
 

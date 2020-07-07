@@ -13,26 +13,31 @@ const MainStack = () => {
   return (
     <NavigationContainer>
       <Tab.Navigator
-        screenOptions={({ route }) => ({
-          tabBarIcon: ({ color, size }) => {
-            let iconName;
-
-            if (route.name === 'Ciência e Tecnologia') {
-              iconName = 'md-heart';
-            } else if (route.name === 'Mundo') {
-              iconName = 'md-globe';
-            }
-
-            return <Ionicons name={iconName} size={size} color={color} />;
-          },
-        })}
         tabBarOptions={{
           activeTintColor: 'tomato',
           inactiveTintColor: 'gray',
         }}
       >
-        <Tab.Screen name="Ciência e Tecnologia" component={News} />
-        <Tab.Screen name="Mundo" component={News} />
+        <Tab.Screen
+          name="science" 
+          options={{
+            tabBarLabel: 'Ciência e Tecnologia',
+            tabBarIcon: ({ color, size }) => (
+              <Ionicons name={'md-heart'} size={size} color={color} />
+            ),
+          }}
+          component={News}
+        />
+        <Tab.Screen
+          name="world"
+          options={{
+            tabBarLabel: 'Mundo',
+            tabBarIcon: ({ color, size }) => (
+              <Ionicons name={'md-globe'} size={size} color={color} />
+            ),
+          }}
+          component={News}
+        />
       </Tab.Navigator>
     </NavigationContainer>
   );

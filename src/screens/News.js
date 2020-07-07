@@ -8,9 +8,10 @@ import { getNYTNews } from '../services/NewsService';
 
 const News = ({ route }) => {
   const [news, setNews] = useState([]);
+  const section = route.name;
 
   const getNews = async () => {
-    const { results } = await getNYTNews();
+    const { results } = await getNYTNews(section);
     setNews(results);
   }
 

@@ -14,8 +14,8 @@ const MainStack = () => {
     <NavigationContainer>
       <Tab.Navigator
         tabBarOptions={{
-          activeTintColor: 'tomato',
-          inactiveTintColor: 'gray',
+          activeTintColor: '#000',
+          inactiveTintColor: '#b3b3b3',
         }}
       >
         <Tab.Screen
@@ -23,7 +23,7 @@ const MainStack = () => {
           options={{
             tabBarLabel: 'Ciência e Tecnologia',
             tabBarIcon: ({ color, size }) => (
-              <Ionicons name={'md-heart'} size={size} color={color} />
+              <Ionicons name={'md-hardware-chip-outline'} size={size} color={color} />
             ),
           }}
           component={News}
@@ -33,7 +33,7 @@ const MainStack = () => {
           options={{
             tabBarLabel: 'Mundo',
             tabBarIcon: ({ color, size }) => (
-              <Ionicons name={'md-globe'} size={size} color={color} />
+              <Ionicons name={'md-globe-outline'} size={size} color={color} />
             ),
           }}
           component={News}

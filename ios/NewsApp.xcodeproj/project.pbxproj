@@ -36,6 +36,35 @@
 		DFF407B1D0B44C5EA882CA8D /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BDB4B5ACE15545F5BE3575C5 /* Octicons.ttf */; };
 		5D96EE91BF1940B985566453 /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 84682A622BBB4BB1A4FFF544 /* SimpleLineIcons.ttf */; };
 		1026F737E910442A9A08B22C /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA53C7F3E1354DECBA8605F2 /* Zocial.ttf */; };
+		9A61F8EC9A794FE480ADBF95 /* cheltenham-cond-normal-300.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5DE1872B7C8E4B3483F55E11 /* cheltenham-cond-normal-300.ttf */; };
+		5760FD9A47D445E69F17FD92 /* cheltenham-cond-normal-500.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 31A6F4526FE94975B6D4FF65 /* cheltenham-cond-normal-500.ttf */; };
+		9D41081C5E64410B9AEA5FB3 /* cheltenham-cond-normal-700.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4A5F161F4527407EBDADD4A3 /* cheltenham-cond-normal-700.ttf */; };
+		4B761084DD184130802836D9 /* cheltenham-italic-200.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D38EE543CD5841E0999ED112 /* cheltenham-italic-200.ttf */; };
+		5CB509EEED5E47C89B3C04DA /* cheltenham-italic-300.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 247268F2FB85494ABCAB25A6 /* cheltenham-italic-300.ttf */; };
+		E96BA8CE3E29420C82151C04 /* cheltenham-italic-400.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B62D9AB8A0924AAFA80A6DAD /* cheltenham-italic-400.ttf */; };
+		6BF43E61BF7845A197643CC6 /* cheltenham-italic-500.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E9D04CC48C2041D4B8295B34 /* cheltenham-italic-500.ttf */; };
+		ECF81BD410124A1AB3955107 /* cheltenham-italic-700.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1364BCE6D37446C7808C8644 /* cheltenham-italic-700.ttf */; };
+		02EFCA2577FD47F3963C4B6B /* cheltenham-italic-800.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CDB18565F87544C1A1AAFCEA /* cheltenham-italic-800.ttf */; };
+		7FE357A2595546108743E7ED /* cheltenham-normal-200.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F98DDDA4976B465BBD94D435 /* cheltenham-normal-200.ttf */; };
+		A1DCA7EE287148C88A1908CE /* cheltenham-normal-300.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 098621B08794432DB9117A2A /* cheltenham-normal-300.ttf */; };
+		0E19426D9D764D0A92A626EB /* cheltenham-normal-400.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9270FB3D46244A49A12B5F4A /* cheltenham-normal-400.ttf */; };
+		434F6C0E925944DF87B7FC28 /* cheltenham-normal-500.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 275807500E6F4A5F9F254FE2 /* cheltenham-normal-500.ttf */; };
+		E6BBB1C8683542258F5C9EF0 /* cheltenham-normal-700.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 55892937D31A40778749E8D2 /* cheltenham-normal-700.ttf */; };
+		8A15C7B45CC2475E86EF4B0E /* cheltenham-normal-800.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A0B75B69AD76488296908280 /* cheltenham-normal-800.ttf */; };
+		ADA7FC164EC54F88A28A46A6 /* cheltenham-scaps-normal-300.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE18C74DC97457896831F5C /* cheltenham-scaps-normal-300.ttf */; };
+		8962C34970764A48A6F7290E /* cheltenham-small-italic-400.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BC8953245D85401A9B488837 /* cheltenham-small-italic-400.ttf */; };
+		9D6A044401DD411E9175141A /* cheltenham-small-italic-700.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 843CD1DA7D9B4D0C8D1F6BD3 /* cheltenham-small-italic-700.ttf */; };
+		C7D95C0BBDD8468EB67C4689 /* cheltenham-small-normal-400.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A2633371846C4DA2909B7DB0 /* cheltenham-small-normal-400.ttf */; };
+		DE53C60595ED44029D5976DB /* cheltenham-small-normal-700.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3C23111BBA9A43B5A129299C /* cheltenham-small-normal-700.ttf */; };
+		0FE357DA9C6C4302AA3F3EAE /* cheltenham-wide-italic-400.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5E9004AA976F44FC90610C7E /* cheltenham-wide-italic-400.ttf */; };
+		5877EBA5C2E84F20AAF159BB /* cheltenham-wide-normal-400.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5A0896B095F2480291DF004A /* cheltenham-wide-normal-400.ttf */; };
+		310BE1C61604400EA1FFA605 /* cheltenham-xcond-normal-700.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 11017EA2B18C4DF49B5F5624 /* cheltenham-xcond-normal-700.ttf */; };
+		96280A6C3F9C4BFF98F7F95D /* imperial-italic-500.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 95F1E1FC33804B0B86CD7D27 /* imperial-italic-500.ttf */; };
+		9F93ED80A4AA4AF29AFE98F3 /* imperial-italic-600.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B39DCA370CCB4D2A894B2324 /* imperial-italic-600.ttf */; };
+		C9F27141A4544809B1662B52 /* imperial-italic-700.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 09386C792C6348C59DE4E6A0 /* imperial-italic-700.ttf */; };
+		CE1628A13FC345F29D4DB225 /* imperial-normal-500.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 71336E8BBB7849AAA2CFCA23 /* imperial-normal-500.ttf */; };
+		8FA43010923643EAB6E6D61D /* imperial-normal-600.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BF9728BB52B64B1A87AC99C2 /* imperial-normal-600.ttf */; };
+		060E0DD1DAB7428D84FD6A31 /* imperial-normal-700.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 83B176955E9849BDB1D49B52 /* imperial-normal-700.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -83,7 +112,52 @@
 		D60E5657C161AD5E5D250F0E /* libPods-NewsApp-NewsAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-NewsApp-NewsAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
-		1D1D67CCE4D645BC8BF11428 /* Ionicons.ttf */ = {isa = PBXFileReference; name = "Ionicons.ttf"; path = "../node_modules/react-native-ionicons/fonts/Ionicons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		ED4EC59434E3468F92D3F548 /* AntDesign.ttf */ = {isa = PBXFileReference; name = "AntDesign.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		5820A6E5536348F4B055DF83 /* Entypo.ttf */ = {isa = PBXFileReference; name = "Entypo.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Entypo.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9DDAF4E114254905A72B0877 /* EvilIcons.ttf */ = {isa = PBXFileReference; name = "EvilIcons.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		CE1D2EB14C194C388C78EE47 /* Feather.ttf */ = {isa = PBXFileReference; name = "Feather.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Feather.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8B5D2E5B38084797B4E701CD /* FontAwesome.ttf */ = {isa = PBXFileReference; name = "FontAwesome.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		33100025E3324C6383C98256 /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; name = "FontAwesome5_Brands.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		AC4FEF5BB6DA4484BCCE3767 /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; name = "FontAwesome5_Regular.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		76BA6391481E44B09FF70144 /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; name = "FontAwesome5_Solid.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		FE6A2E0668A643E5B82B5B2C /* Fontisto.ttf */ = {isa = PBXFileReference; name = "Fontisto.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		018C8683042C40E38D09DA28 /* Foundation.ttf */ = {isa = PBXFileReference; name = "Foundation.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Foundation.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6EE9908CE9DF40E4883B1A8B /* Ionicons.ttf */ = {isa = PBXFileReference; name = "Ionicons.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		7C5E4EF552B347CB9266247F /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; name = "MaterialCommunityIcons.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		5BEBAE5EB1B1475E825837BB /* MaterialIcons.ttf */ = {isa = PBXFileReference; name = "MaterialIcons.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		35F0D775A0974796A130E68E /* Octicons.ttf */ = {isa = PBXFileReference; name = "Octicons.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Octicons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		71E857F34B96458E82EA13CB /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; name = "SimpleLineIcons.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		483C2774EC9545149937B88D /* Zocial.ttf */ = {isa = PBXFileReference; name = "Zocial.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Zocial.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		5DE1872B7C8E4B3483F55E11 /* cheltenham-cond-normal-300.ttf */ = {isa = PBXFileReference; name = "cheltenham-cond-normal-300.ttf"; path = "../assets/fonts/cheltenham/cheltenham-cond-normal-300.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		31A6F4526FE94975B6D4FF65 /* cheltenham-cond-normal-500.ttf */ = {isa = PBXFileReference; name = "cheltenham-cond-normal-500.ttf"; path = "../assets/fonts/cheltenham/cheltenham-cond-normal-500.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		4A5F161F4527407EBDADD4A3 /* cheltenham-cond-normal-700.ttf */ = {isa = PBXFileReference; name = "cheltenham-cond-normal-700.ttf"; path = "../assets/fonts/cheltenham/cheltenham-cond-normal-700.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D38EE543CD5841E0999ED112 /* cheltenham-italic-200.ttf */ = {isa = PBXFileReference; name = "cheltenham-italic-200.ttf"; path = "../assets/fonts/cheltenham/cheltenham-italic-200.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		247268F2FB85494ABCAB25A6 /* cheltenham-italic-300.ttf */ = {isa = PBXFileReference; name = "cheltenham-italic-300.ttf"; path = "../assets/fonts/cheltenham/cheltenham-italic-300.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B62D9AB8A0924AAFA80A6DAD /* cheltenham-italic-400.ttf */ = {isa = PBXFileReference; name = "cheltenham-italic-400.ttf"; path = "../assets/fonts/cheltenham/cheltenham-italic-400.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E9D04CC48C2041D4B8295B34 /* cheltenham-italic-500.ttf */ = {isa = PBXFileReference; name = "cheltenham-italic-500.ttf"; path = "../assets/fonts/cheltenham/cheltenham-italic-500.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1364BCE6D37446C7808C8644 /* cheltenham-italic-700.ttf */ = {isa = PBXFileReference; name = "cheltenham-italic-700.ttf"; path = "../assets/fonts/cheltenham/cheltenham-italic-700.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		CDB18565F87544C1A1AAFCEA /* cheltenham-italic-800.ttf */ = {isa = PBXFileReference; name = "cheltenham-italic-800.ttf"; path = "../assets/fonts/cheltenham/cheltenham-italic-800.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F98DDDA4976B465BBD94D435 /* cheltenham-normal-200.ttf */ = {isa = PBXFileReference; name = "cheltenham-normal-200.ttf"; path = "../assets/fonts/cheltenham/cheltenham-normal-200.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		098621B08794432DB9117A2A /* cheltenham-normal-300.ttf */ = {isa = PBXFileReference; name = "cheltenham-normal-300.ttf"; path = "../assets/fonts/cheltenham/cheltenham-normal-300.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9270FB3D46244A49A12B5F4A /* cheltenham-normal-400.ttf */ = {isa = PBXFileReference; name = "cheltenham-normal-400.ttf"; path = "../assets/fonts/cheltenham/cheltenham-normal-400.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		275807500E6F4A5F9F254FE2 /* cheltenham-normal-500.ttf */ = {isa = PBXFileReference; name = "cheltenham-normal-500.ttf"; path = "../assets/fonts/cheltenham/cheltenham-normal-500.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		55892937D31A40778749E8D2 /* cheltenham-normal-700.ttf */ = {isa = PBXFileReference; name = "cheltenham-normal-700.ttf"; path = "../assets/fonts/cheltenham/cheltenham-normal-700.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A0B75B69AD76488296908280 /* cheltenham-normal-800.ttf */ = {isa = PBXFileReference; name = "cheltenham-normal-800.ttf"; path = "../assets/fonts/cheltenham/cheltenham-normal-800.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		7AE18C74DC97457896831F5C /* cheltenham-scaps-normal-300.ttf */ = {isa = PBXFileReference; name = "cheltenham-scaps-normal-300.ttf"; path = "../assets/fonts/cheltenham/cheltenham-scaps-normal-300.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		BC8953245D85401A9B488837 /* cheltenham-small-italic-400.ttf */ = {isa = PBXFileReference; name = "cheltenham-small-italic-400.ttf"; path = "../assets/fonts/cheltenham/cheltenham-small-italic-400.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		843CD1DA7D9B4D0C8D1F6BD3 /* cheltenham-small-italic-700.ttf */ = {isa = PBXFileReference; name = "cheltenham-small-italic-700.ttf"; path = "../assets/fonts/cheltenham/cheltenham-small-italic-700.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A2633371846C4DA2909B7DB0 /* cheltenham-small-normal-400.ttf */ = {isa = PBXFileReference; name = "cheltenham-small-normal-400.ttf"; path = "../assets/fonts/cheltenham/cheltenham-small-normal-400.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3C23111BBA9A43B5A129299C /* cheltenham-small-normal-700.ttf */ = {isa = PBXFileReference; name = "cheltenham-small-normal-700.ttf"; path = "../assets/fonts/cheltenham/cheltenham-small-normal-700.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		5E9004AA976F44FC90610C7E /* cheltenham-wide-italic-400.ttf */ = {isa = PBXFileReference; name = "cheltenham-wide-italic-400.ttf"; path = "../assets/fonts/cheltenham/cheltenham-wide-italic-400.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		5A0896B095F2480291DF004A /* cheltenham-wide-normal-400.ttf */ = {isa = PBXFileReference; name = "cheltenham-wide-normal-400.ttf"; path = "../assets/fonts/cheltenham/cheltenham-wide-normal-400.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		11017EA2B18C4DF49B5F5624 /* cheltenham-xcond-normal-700.ttf */ = {isa = PBXFileReference; name = "cheltenham-xcond-normal-700.ttf"; path = "../assets/fonts/cheltenham/cheltenham-xcond-normal-700.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		95F1E1FC33804B0B86CD7D27 /* imperial-italic-500.ttf */ = {isa = PBXFileReference; name = "imperial-italic-500.ttf"; path = "../assets/fonts/imperial/imperial-italic-500.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B39DCA370CCB4D2A894B2324 /* imperial-italic-600.ttf */ = {isa = PBXFileReference; name = "imperial-italic-600.ttf"; path = "../assets/fonts/imperial/imperial-italic-600.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		09386C792C6348C59DE4E6A0 /* imperial-italic-700.ttf */ = {isa = PBXFileReference; name = "imperial-italic-700.ttf"; path = "../assets/fonts/imperial/imperial-italic-700.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		71336E8BBB7849AAA2CFCA23 /* imperial-normal-500.ttf */ = {isa = PBXFileReference; name = "imperial-normal-500.ttf"; path = "../assets/fonts/imperial/imperial-normal-500.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		BF9728BB52B64B1A87AC99C2 /* imperial-normal-600.ttf */ = {isa = PBXFileReference; name = "imperial-normal-600.ttf"; path = "../assets/fonts/imperial/imperial-normal-600.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		83B176955E9849BDB1D49B52 /* imperial-normal-700.ttf */ = {isa = PBXFileReference; name = "imperial-normal-700.ttf"; path = "../assets/fonts/imperial/imperial-normal-700.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D0346038CD3140B78CF79E31 /* imperial-normal-500.ttf */ = {isa = PBXFileReference; name = "imperial-normal-500.ttf"; path = "../assets/fonts/imperial-normal-500.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -219,7 +293,6 @@
 		9496A3C0B60E4197A769D25C /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				1D1D67CCE4D645BC8BF11428 /* Ionicons.ttf */,
 				58D89A797AF941BBBDD3E95B /* AntDesign.ttf */,
 				3C1ED17287BD4314BD0C6C53 /* Entypo.ttf */,
 				3E0949CCD08F4CFCA306E516 /* EvilIcons.ttf */,
@@ -236,6 +309,36 @@
 				BDB4B5ACE15545F5BE3575C5 /* Octicons.ttf */,
 				84682A622BBB4BB1A4FFF544 /* SimpleLineIcons.ttf */,
 				FA53C7F3E1354DECBA8605F2 /* Zocial.ttf */,
+				5DE1872B7C8E4B3483F55E11 /* cheltenham-cond-normal-300.ttf */,
+				31A6F4526FE94975B6D4FF65 /* cheltenham-cond-normal-500.ttf */,
+				4A5F161F4527407EBDADD4A3 /* cheltenham-cond-normal-700.ttf */,
+				D38EE543CD5841E0999ED112 /* cheltenham-italic-200.ttf */,
+				247268F2FB85494ABCAB25A6 /* cheltenham-italic-300.ttf */,
+				B62D9AB8A0924AAFA80A6DAD /* cheltenham-italic-400.ttf */,
+				E9D04CC48C2041D4B8295B34 /* cheltenham-italic-500.ttf */,
+				1364BCE6D37446C7808C8644 /* cheltenham-italic-700.ttf */,
+				CDB18565F87544C1A1AAFCEA /* cheltenham-italic-800.ttf */,
+				F98DDDA4976B465BBD94D435 /* cheltenham-normal-200.ttf */,
+				098621B08794432DB9117A2A /* cheltenham-normal-300.ttf */,
+				9270FB3D46244A49A12B5F4A /* cheltenham-normal-400.ttf */,
+				275807500E6F4A5F9F254FE2 /* cheltenham-normal-500.ttf */,
+				55892937D31A40778749E8D2 /* cheltenham-normal-700.ttf */,
+				A0B75B69AD76488296908280 /* cheltenham-normal-800.ttf */,
+				7AE18C74DC97457896831F5C /* cheltenham-scaps-normal-300.ttf */,
+				BC8953245D85401A9B488837 /* cheltenham-small-italic-400.ttf */,
+				843CD1DA7D9B4D0C8D1F6BD3 /* cheltenham-small-italic-700.ttf */,
+				A2633371846C4DA2909B7DB0 /* cheltenham-small-normal-400.ttf */,
+				3C23111BBA9A43B5A129299C /* cheltenham-small-normal-700.ttf */,
+				5E9004AA976F44FC90610C7E /* cheltenham-wide-italic-400.ttf */,
+				5A0896B095F2480291DF004A /* cheltenham-wide-normal-400.ttf */,
+				11017EA2B18C4DF49B5F5624 /* cheltenham-xcond-normal-700.ttf */,
+				95F1E1FC33804B0B86CD7D27 /* imperial-italic-500.ttf */,
+				B39DCA370CCB4D2A894B2324 /* imperial-italic-600.ttf */,
+				09386C792C6348C59DE4E6A0 /* imperial-italic-700.ttf */,
+				71336E8BBB7849AAA2CFCA23 /* imperial-normal-500.ttf */,
+				BF9728BB52B64B1A87AC99C2 /* imperial-normal-600.ttf */,
+				83B176955E9849BDB1D49B52 /* imperial-normal-700.ttf */,
+				D0346038CD3140B78CF79E31 /* imperial-normal-500.ttf */,
 			);
 			name = Resources;
 			path = "";
@@ -400,6 +503,35 @@
 				DFF407B1D0B44C5EA882CA8D /* Octicons.ttf in Resources */,
 				5D96EE91BF1940B985566453 /* SimpleLineIcons.ttf in Resources */,
 				1026F737E910442A9A08B22C /* Zocial.ttf in Resources */,
+				9A61F8EC9A794FE480ADBF95 /* cheltenham-cond-normal-300.ttf in Resources */,
+				5760FD9A47D445E69F17FD92 /* cheltenham-cond-normal-500.ttf in Resources */,
+				9D41081C5E64410B9AEA5FB3 /* cheltenham-cond-normal-700.ttf in Resources */,
+				4B761084DD184130802836D9 /* cheltenham-italic-200.ttf in Resources */,
+				5CB509EEED5E47C89B3C04DA /* cheltenham-italic-300.ttf in Resources */,
+				E96BA8CE3E29420C82151C04 /* cheltenham-italic-400.ttf in Resources */,
+				6BF43E61BF7845A197643CC6 /* cheltenham-italic-500.ttf in Resources */,
+				ECF81BD410124A1AB3955107 /* cheltenham-italic-700.ttf in Resources */,
+				02EFCA2577FD47F3963C4B6B /* cheltenham-italic-800.ttf in Resources */,
+				7FE357A2595546108743E7ED /* cheltenham-normal-200.ttf in Resources */,
+				A1DCA7EE287148C88A1908CE /* cheltenham-normal-300.ttf in Resources */,
+				0E19426D9D764D0A92A626EB /* cheltenham-normal-400.ttf in Resources */,
+				434F6C0E925944DF87B7FC28 /* cheltenham-normal-500.ttf in Resources */,
+				E6BBB1C8683542258F5C9EF0 /* cheltenham-normal-700.ttf in Resources */,
+				8A15C7B45CC2475E86EF4B0E /* cheltenham-normal-800.ttf in Resources */,
+				ADA7FC164EC54F88A28A46A6 /* cheltenham-scaps-normal-300.ttf in Resources */,
+				8962C34970764A48A6F7290E /* cheltenham-small-italic-400.ttf in Resources */,
+				9D6A044401DD411E9175141A /* cheltenham-small-italic-700.ttf in Resources */,
+				C7D95C0BBDD8468EB67C4689 /* cheltenham-small-normal-400.ttf in Resources */,
+				DE53C60595ED44029D5976DB /* cheltenham-small-normal-700.ttf in Resources */,
+				0FE357DA9C6C4302AA3F3EAE /* cheltenham-wide-italic-400.ttf in Resources */,
+				5877EBA5C2E84F20AAF159BB /* cheltenham-wide-normal-400.ttf in Resources */,
+				310BE1C61604400EA1FFA605 /* cheltenham-xcond-normal-700.ttf in Resources */,
+				96280A6C3F9C4BFF98F7F95D /* imperial-italic-500.ttf in Resources */,
+				9F93ED80A4AA4AF29AFE98F3 /* imperial-italic-600.ttf in Resources */,
+				C9F27141A4544809B1662B52 /* imperial-italic-700.ttf in Resources */,
+				CE1628A13FC345F29D4DB225 /* imperial-normal-500.ttf in Resources */,
+				8FA43010923643EAB6E6D61D /* imperial-normal-600.ttf in Resources */,
+				060E0DD1DAB7428D84FD6A31 /* imperial-normal-700.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

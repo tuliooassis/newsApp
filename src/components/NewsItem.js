@@ -16,20 +16,24 @@ const BoxNews = styled(View)`
 
 const TitleNews = styled(Text)`
   padding: 10px
-  color: #263047
-  font-size: 20px
+  color: black
+  font-weight: bold
+  font-size: 26px
+  font-family: NYTCheltenham
 `;
 
 const DescriptionNews = styled(Text)`
   color: #1a1c21
   padding: 10px
   font-size: 16px
+  font-family: NYTImperial
 `;
 
 const AdditionalInformation = styled(Text)`
   color: #1a1c21
   padding-left: 10px
   padding-bottom: 10px
+  font-family: NYTImperial
 `;
 
 const NewsItem = ({ title, abstract, published_date, byline, multimedia }) => {

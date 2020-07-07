@@ -71,6 +71,35 @@
 		<string>Octicons.ttf</string>
 		<string>SimpleLineIcons.ttf</string>
 		<string>Zocial.ttf</string>
+		<string>cheltenham-cond-normal-300.ttf</string>
+		<string>cheltenham-cond-normal-500.ttf</string>
+		<string>cheltenham-cond-normal-700.ttf</string>
+		<string>cheltenham-italic-200.ttf</string>
+		<string>cheltenham-italic-300.ttf</string>
+		<string>cheltenham-italic-400.ttf</string>
+		<string>cheltenham-italic-500.ttf</string>
+		<string>cheltenham-italic-700.ttf</string>
+		<string>cheltenham-italic-800.ttf</string>
+		<string>cheltenham-normal-200.ttf</string>
+		<string>cheltenham-normal-300.ttf</string>
+		<string>cheltenham-normal-400.ttf</string>
+		<string>cheltenham-normal-500.ttf</string>
+		<string>cheltenham-normal-700.ttf</string>
+		<string>cheltenham-normal-800.ttf</string>
+		<string>cheltenham-scaps-normal-300.ttf</string>
+		<string>cheltenham-small-italic-400.ttf</string>
+		<string>cheltenham-small-italic-700.ttf</string>
+		<string>cheltenham-small-normal-400.ttf</string>
+		<string>cheltenham-small-normal-700.ttf</string>
+		<string>cheltenham-wide-italic-400.ttf</string>
+		<string>cheltenham-wide-normal-400.ttf</string>
+		<string>cheltenham-xcond-normal-700.ttf</string>
+		<string>imperial-italic-500.ttf</string>
+		<string>imperial-italic-600.ttf</string>
+		<string>imperial-italic-700.ttf</string>
+		<string>imperial-normal-500.ttf</string>
+		<string>imperial-normal-600.ttf</string>
+		<string>imperial-normal-700.ttf</string>
 	</array>
 </dict>
 </plist>

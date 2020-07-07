@@ -28,6 +28,7 @@ const News = ({ route }) => {
                                             multimedia={item.multimedia[0]}
                                   />}
         keyExtractor={(item, index) => index}
+        initialNumToRender={5}
       />
     </ViewContainer>
   )

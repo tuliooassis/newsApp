@@ -36,11 +36,13 @@ const AdditionalInformation = styled(Text)`
   font-family: NYTImperial
 `;
 
-const NewsItem = ({ title, abstract, published_date, byline, multimedia }) => {
+const NewsItem = ({ item }) => {
+  const { title, abstract, published_date, byline, multimedia } = item;
+
   return (
     <BoxNews>
       <TitleNews>{title}</TitleNews>
-      <ImageNews multimedia={multimedia}/>
+      <ImageNews multimedia={multimedia[0]} />
       <DescriptionNews>{abstract}</DescriptionNews>
       <AdditionalInformation>{Moment(published_date).format('d MMMM YY')} {byline ? ' - ' + byline : ''}</AdditionalInformation>
     </BoxNews>

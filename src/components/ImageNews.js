@@ -18,7 +18,9 @@ const Photo = styled(Image)`
 const ImageNews = ({ multimedia }) => {
   return (
     <>
-      <Photo source={{ uri: multimedia.url }} />
+      <Photo  source={{ uri: multimedia.url }} 
+              accessible={ multimedia.caption !== "" ? true : false} 
+              accessibilityLabel={ multimedia.caption } />
       <Copyright>{ multimedia.copyright.toUpperCase() }</Copyright>
     </>
   )

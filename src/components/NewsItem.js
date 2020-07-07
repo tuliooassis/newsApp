@@ -1,7 +1,10 @@
 import React from 'react';
-import { Dimensions, Text, View, Image } from 'react-native';
+import { Text, View } from 'react-native';
+import Moment from 'moment';
 
 import styled from 'styled-components';
+
+import ImageNews from './ImageNews';
 
 const BoxNews = styled(View)`
   background-color: white
@@ -20,19 +23,22 @@ const TitleNews = styled(Text)`
 const DescriptionNews = styled(Text)`
   color: #1a1c21
   padding: 10px
+  font-size: 16px
 `;
 
-const ImageNews = styled(Image)`
-  width: ${Dimensions.get('window').width}px
-  height: ${Dimensions.get('window').width}px
+const AdditionalInformation = styled(Text)`
+  color: #1a1c21
+  padding-left: 10px
+  padding-bottom: 10px
 `;
 
-const NewsItem = ({ title, abstract, multimedia }) => {
+const NewsItem = ({ title, abstract, published_date, byline, multimedia }) => {
   return (
     <BoxNews>
       <TitleNews>{title}</TitleNews>
-      <ImageNews source={{ uri: multimedia.url }}/>
+      <ImageNews multimedia={multimedia}/>
       <DescriptionNews>{abstract}</DescriptionNews>
+      <AdditionalInformation>{Moment(published_date).format('d MMMM YY')} {byline ? ' - ' + byline : ''}</AdditionalInformation>
     </BoxNews>
   );
 };

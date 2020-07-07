@@ -23,7 +23,10 @@ const News = ({ route }) => {
     <ViewContainer>
       <FlatList
         data={news}
-        renderItem={({ item }) => <NewsItem title={item.title} abstract={item.abstract} multimedia={item.multimedia[0]} />}
+        renderItem={({ item }) => <NewsItem title={item.title} abstract={item.abstract} 
+                                            published_date={item.published_date} byline={item.byline}
+                                            multimedia={item.multimedia[0]}
+                                  />}
         keyExtractor={(item, index) => index}
       />
     </ViewContainer>

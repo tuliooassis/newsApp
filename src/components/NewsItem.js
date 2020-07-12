@@ -42,7 +42,7 @@ const NewsItem = ({ item }) => {
   return (
     <BoxNews>
       <TitleNews>{title}</TitleNews>
-      <ImageNews multimedia={multimedia[0]} />
+      { multimedia && <ImageNews multimedia={multimedia[0]} /> }
       <DescriptionNews>{abstract}</DescriptionNews>
       <AdditionalInformation>{Moment(published_date).format('d MMMM YY')} {byline ? ' - ' + byline : ''}</AdditionalInformation>
     </BoxNews>

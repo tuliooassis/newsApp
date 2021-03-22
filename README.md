@@ -1,6 +1,6 @@
 # News App
 
-A News Application, with React Native.
+A News Application built with React Native.
 
 ## Screenshots
 
